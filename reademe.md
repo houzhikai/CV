@@ -21,3 +21,12 @@
 **技术栈**
 
 `vue`、`vue-router`、`vuex`、`element-ui`、`webpack`、`es6`
+
+
+**项目源码**
+
+github.com/houzhikai， 点击查看效果预览
+
+
+## 个人评价
+痴迷新技术，喜欢承担有技术难度的工作，爱分享，善于知识总结梳理
