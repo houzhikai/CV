@@ -25,7 +25,7 @@
 
 **项目源码**
 
-github.com/houzhikai， 点击查看效果预览
+github.com/your-name， 点击查看效果预览
 
 
 ## 个人评价
